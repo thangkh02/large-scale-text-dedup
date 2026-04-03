@@ -1,0 +1,37 @@
+# PDFs
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large datasets/files
+*.zip
+*.tar.gz
+*.tar
+# OCR outputs / generated artifacts
+notebook/arxiv_ocr_benchmark_workspace/parsed_jsonl/
+*.jsonl
