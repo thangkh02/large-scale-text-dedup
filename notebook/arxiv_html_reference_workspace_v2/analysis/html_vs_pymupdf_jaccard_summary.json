@@ -1,0 +1,12 @@
+{
+  "n_html_ok": 1418,
+  "n_pymupdf_ok": 1578,
+  "n_common_valid": 1418,
+  "n_after_ratio_filter": 1413,
+  "n_dropped_low_ratio": 5,
+  "ratio_min": 0.5,
+  "mean_jaccard": 0.8162956582011195,
+  "median_jaccard": 0.8284671532846716,
+  "p10_jaccard": 0.690597107236931,
+  "p90_jaccard": 0.9324151067116401
+}

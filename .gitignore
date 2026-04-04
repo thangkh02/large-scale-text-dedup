@@ -35,3 +35,7 @@ Thumbs.db
 # OCR outputs / generated artifacts
 notebook/arxiv_ocr_benchmark_workspace/parsed_jsonl/
 *.jsonl
+*.png 
+*.csv 
+*.html
+*.txt

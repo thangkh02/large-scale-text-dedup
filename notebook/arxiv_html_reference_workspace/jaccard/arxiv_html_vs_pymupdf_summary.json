@@ -1,0 +1,9 @@
+{
+  "n_html_ok": 1421,
+  "n_pymupdf_ok": 1578,
+  "n_common_valid": 1421,
+  "mean_jaccard_html_vs_pymupdf": 0.6010847460169353,
+  "median_jaccard_html_vs_pymupdf": 0.6059850374064838,
+  "p10_jaccard_html_vs_pymupdf": 0.4610846812559467,
+  "p90_jaccard_html_vs_pymupdf": 0.7405607476635514
+}
